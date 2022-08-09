@@ -12,7 +12,7 @@ public class Main {
         for (int i = 0; i < 50; i++) {
             arrayList.add(random.nextInt(1, 100));
         }
-
+        System.out.println(arrayList);
         System.out.println("-------------");
 
 
